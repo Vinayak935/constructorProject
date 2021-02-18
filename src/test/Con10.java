@@ -1,4 +1,4 @@
-class Addi
+class Addition
 {
 System.out.println("Hi");
 }
